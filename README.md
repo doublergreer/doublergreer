@@ -1,7 +1,7 @@
-- Hi, I'm Ryan
+- Hi, I'm Ryan Greer
 - I'm interested in java, c++, and web dev projects with javascript
-- I'm currently a first year student at the University of Colorado Boulder
-- feel free to contact me on linkedin or instagram!
+- I'm currently a second year computer science student at the University of Colorado Boulder
+- feel free to contact me on linkedin!
 - https://www.linkedin.com/in/ryan-greer-b1123424a/
 
 <!---
