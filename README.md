@@ -1,6 +1,5 @@
 - Hi, I'm Ryan Greer
-- I'm interested in java, c++, and web dev projects with javascript
-- I'm currently a second year computer science student at the University of Colorado Boulder
+- I'm currently a third year computer science student at the University of Colorado Boulder seeking internship opportunities
 - feel free to contact me on linkedin!
 - https://www.linkedin.com/in/ryan-greer-b1123424a/
 
