@@ -1,5 +1,5 @@
 - Hi, I'm Ryan Greer
-- I'm currently a third year computer science student at the University of Colorado Boulder seeking internship opportunities
+- I'm a 4th year computer science student at the University of Colorado Boulder
 - feel free to contact me on linkedin!
 
 <!---
