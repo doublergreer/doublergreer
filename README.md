@@ -1,4 +1,4 @@
-- Hi, I'm Ryan Greer
+### Hi, I'm Ryan Greer
 - I'm a 4th year computer science student at the University of Colorado Boulder
 - feel free to contact me on linkedin!
 
